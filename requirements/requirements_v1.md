@@ -1,2 +1,4 @@
 -System shall verify user login credentials
 -System shall validate inputs before processing
+-System shall generate verification logs
+-System shall maintain audit trail
